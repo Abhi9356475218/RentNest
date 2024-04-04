@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 ## 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Gauravdane20/Airbnb-Clone.git
+   git clone https://github.com/Abhi9356475218/RentNest.git
    ```
    
 
@@ -55,7 +55,7 @@ To get started with this project, follow these steps:
  ## Install dependencies:
 
 ```bash
-  npm install
+  npm install --force
 ```
 
 ## Start
